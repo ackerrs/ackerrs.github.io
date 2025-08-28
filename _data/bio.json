@@ -47,8 +47,7 @@
       "studyType": "Certifications",
       "startDate": "2011-05-26",
       "endDate": "2024-08-26",
-      "courses": [ "Basic Training", "Apprentice Technical Training", "Electronic Technician 'A' School", "Communications Security Maintenance Technician", "Ultra High Frequency (UHF) Maintenance Technician", "Digital Modular Radio (DMR) Maintenance Technician", "United States Military Apprenticeship Program: Electronics Technician (Professional & Kindred)", "Antenna Maintenance Course", "Broadcast Keying Station (BKS)/Submarine Message Gateway (SMG) Maintenance Technician", "Expeditionary Combat Skills", "SEAL Delivery Vehicle (SDV) Electronics Maintenance Technician", "Air Mobility Command Aircraft Planners Course" 
-      ]
+      "courses": "Basic Training", "Apprentice Technical Training", "Electronic Technician 'A' School", "Communications Security Maintenance Technician", "Ultra High Frequency (UHF) Maintenance Technician", "Digital Modular Radio (DMR) Maintenance Technician", "United States Military Apprenticeship Program: Electronics Technician (Professional & Kindred)", "Antenna Maintenance Course", "Broadcast Keying Station (BKS)/Submarine Message Gateway (SMG) Maintenance Technician", "Expeditionary Combat Skills", "SEAL Delivery Vehicle (SDV) Electronics Maintenance Technician", "Air Mobility Command Aircraft Planners Course"
     }
     {
       "institution": "Embry-Riddle Aeronautical University, Daytona Beach, FL",
