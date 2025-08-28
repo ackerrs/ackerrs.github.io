@@ -4,7 +4,7 @@ type: essay
 title: "Video Games, Representation, and How To Do Better"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-13
-published: true
+published: false
 labels:
   - ENG 100
 ---
