@@ -87,11 +87,11 @@
       "organization": "John Hopkins University Human Language Technology Center of Excellence (HLTCoE)",
       "website": "https://hltcoe.jhu.edu",
       "position": "Project Lead/Co-Lead, IT Support, Annotation",
-      "startDate": "2020",
-      "endDate": "2021",
+      "startDate": "2021-01",
+      "endDate": "2021-08",
       "summary": "Lead projects for Japanese and TULAROSA character recognition projects. Assisted IT department in remote assistance for onboarding and setting up equipment and software for new members.",
       "highlights": [
-        "Letter of Appreciation","9,000+ annotations for TULAROSA"
+        "9,000+ annotations for TULAROSA"
       ]
     },
     {
@@ -106,6 +106,19 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Letter of Appreciation",
+      "date": "2021-08-16",
+      "awarder": "John Hopkins University Human Language Technology Center of Excellence"
+      "summary": "LoA from the Director Emeritus, Officer in Charge, and Operations Director for volunteer efforts in leading the Japanese language project, co-leading the TULAROSA project, and completing 9,000+ annotations."
+    },
+    {
+      "title": "Navy and Marine Corps Achievement Medal (NAM) (x4)",
+      "awarder": "US Navy",
+      "summary": "For actions taken while stationed onboard the USS TRUXTUN (DDG 103), at COMSUBGRU7, and at NSWG8LOGSUPPU."
+    }
+  ]
   "references": [
     {
       "name": "Available upon request"
