@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/ackerrs.png",
     "email": "ackerrs@hawaii.edu",
-    "phone": "867-5309",
+    "phone": "",
     "website": "https://ackerrs.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
