@@ -1,43 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Raymond Acker",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/ackerrs.png",
+    "email": "ackerrs@hawaii.edu",
+    "phone": "867-5309",
+    "website": "https://ackerrs.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ackerrs", "url": "http://github.com/ackerrs" },
+      { "network": "linkedin", "username": "raymond-acker-48a083124", "url": "http://linkedin.com/in/raymond-acker-48a083124" },
+      { "network": "instagram", "username": "ackerrs", "url": "http://instagram.com/ackerrs" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Climbing" },
+    { "name": "Reading" },
+    { "name": "Gaming" },
+    { "name": "SCUBA" },
+    { "name": "Hiking" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected December, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-08-25",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +44,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Premier Solutions, HI",
+      "position": "Program Manager",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-12-18",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Oversee projects for PSHI/ASGI on Oahu island.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Responsible for five employee projects and three installations.",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "US Navy",
+      "position": "Electronics Technician",
+      "website": "",
+      "startDate": "2011-05-26",
+      "endDate": "2024-08-26",
+      "summary": "T/s, repaired, and operated electronics in communications, RADAR, and a wide variety of other fields.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Completed training and qualification courses for: COMSECMAINTECH, UHF/DMR, VLF BKS/SMG, Antenna Maintenance, SEAL Delivery Vehicles, Asst. Security Manager, Electronics Technician (Professional & Kindred) Journeyman"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "John Hopkins University Human Language Technology Center of Excellence (HLTCoE)",
+      "website": "https://hltcoe.jhu.edu",
+      "position": "Project Lead/Co-Lead, IT Support, Annotation",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Lead projects for Japanese and TULAROSA character recognition projects. Assisted IT department in remote assistance for onboarding and setting up equipment and software for new members.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Letter of Appreciation","9,000+ annotations for TULAROSA",
       ]
     },
     {
-      "organization": "",
+      "organization": "Community theatre groups (various)",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Stage hand",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Assisted in the construction of stage set pieces and stage setting at UH Windward Community College and Diamond Head Theater.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Grease, Man of LaMancha, The SpongeBob Musical, Gypsy",
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
