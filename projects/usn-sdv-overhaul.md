@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/E06_HLTCOE_Img.png
+image: img/projects/E06_sdv_pic.png
 title: "Mk.8 SEAL Delivery Vehicle Overhaul"
 date: 2024
 published: true
