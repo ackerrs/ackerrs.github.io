@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/E06_sdv_pic.png
+image: img/projects/Paliku.jpeg
 title: "Stage Set Construction"
 date: 2025
 published: true
