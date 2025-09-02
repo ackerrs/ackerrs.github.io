@@ -22,14 +22,25 @@ Beyond the continuity, Typescript *feels* like Java. Some of the syntax varies, 
 
 <img src="../img/pi-and-i/E10_essay_image.jpg" class="img-fluid" alt="...">
 
-([McKenzie, 2018](/essays/bibliographies/pi-and-i.bib))
+(McKenzie, 2018)[[2]](#2)
 	
 ## Athletic Software Engineering
 
-Reading Philip Johnson's "Athletic Software Engineering" presents a realistic depiction of the so-called cubicle workflow: meetings, priority reassignment, work, repeat until work is complete. Long term timelines worked in the military, but they encouraged complacent maintenance of the status quo over efficiency and improvement. In a learning environment, students should be striving to learn the best methods, the most efficient designs, the tips and tricks their instructors have accumulated over decades. The concept of athletic assignments "develop(s) the skills to succed in a startup weekend environment" ([Johnson, 2013](/essays/bibliographies/pi-and-i.bib)): fast paced and efficient programming with an emphasis on *understanding* the code over *memorizing* the code.
+Reading Philip Johnson's "Athletic Software Engineering" presents a realistic depiction of the so-called cubicle workflow: meetings, priority reassignment, work, repeat until work is complete. Long term timelines worked in the military, but they encouraged complacent maintenance of the status quo over efficiency and improvement. In a learning environment, students should be striving to learn the best methods, the most efficient designs, the tips and tricks their instructors have accumulated over decades. The concept of athletic assignments "develop(s) the skills to succed in a startup weekend environment" ([Johnson, 2013][[1]](#1): fast paced and efficient programming with an emphasis on *understanding* the code over *memorizing* the code.
 	
 Thirteen and a half years in the Navy prepares a Sailor for dealing with near-constant pressures and stresses: athletic style exercises will be a familiar partner. Additionally, the repeated smaller objectives favor continuous use of programming skills over the single, overwhelming deadline that gets procrastinated until the final few days. There are many resources that research and discuss the benefits of breaking large tasks into smaller chunks and the value of repetition on comprehension, and personal experience reinforces those conclusions.
 	
 ## Too Long; Didn't Read
 	
 In conclusion, ICS 314 utilizes tools already familiar to its students and methods to encourage the development of critical thought and efficiency. All of these factors can only been seen as a boon, and the class promises to be informative, challenging, and interesting.
+
+## References
+<a id="1">[1]</a> 
+Johnson, P. (2013). 
+Athletic Software Engineering.
+https://philipmjohnson.org/essays/athletic-software-engineering.html
+
+<a id="2">[2]></a>
+McKenzie, C. (2018).
+What Java developers need to know about TypeScript syntax.
+https://www.theserverside.com/tutorial/What-Java-developers-need-to-know-about-TypeScript-syntax
