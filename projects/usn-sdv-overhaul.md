@@ -13,11 +13,7 @@ labels:
 summary: "My team and I restored two Mk.8 SDVs to fully operational condition."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/projects/mk8-sdv.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img width="200px" src="../img/projects/mk8-sdv.jpg" class="img-fluid" alt="...">
 
 Naval Special Warfare Group 8 (NSWG8) Logistics Support Unit is a U.S. Navy command that provides a variety of support services to NSWG8, primarily focused around the SEAL Delivery Vehicle (SDV) platform. At various stages in an SDV's lifecycle, it will typically be sent from Joint Base Pearl Harbor Hickham, Hawaii to Panama City, Florida for inspection, overhaul, and operational testing. This project was the first and second attempt at performing the process locally, to save both time and money.
 
