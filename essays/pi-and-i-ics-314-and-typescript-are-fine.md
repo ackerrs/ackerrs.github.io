@@ -22,7 +22,7 @@ Beyond the continuity, Typescript *feels* like Java. Some of the syntax varies, 
 
 <img src="../img/pi-and-i/E10_essay_image.jpg" class="img-fluid" alt="...">
 
-([McKenzie], 2018](/essays/bibliographies/pi-and-i.bib))
+([McKenzie, 2018](/essays/bibliographies/pi-and-i.bib))
 	
 ## Athletic Software Engineering
 
