@@ -13,7 +13,11 @@ labels:
 summary: "Assisted in the construction and assembly of set items in several community theatre productions."
 ---
 
-<img src="../img/projects/mk8-sdv.jpg" class="img-fluid" alt="...">
+<div class="text-center p-4">
+  <img width="200px" src="../img/projects/IMG_4825.heic" class="img-thumbnail" >
+  <img width="200px" src="../img/projects/IMG_0456.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/projects/IMG_4826.heic" class="img-thumbnail" >
+</div>
 
 Diamond Head Theatre and Palikū Theatre are stages frequently utilized by community theatre groups, for shows such as *Grease*, *Man of La Mancha*, *The Spongebob Musical*, *Gypsy*, and *Come From Away*. These shows are typically understaffed and underfunded, so when a friend reached out to request assistance I was happy to volunteer.
 
