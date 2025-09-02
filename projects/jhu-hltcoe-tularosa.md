@@ -21,4 +21,4 @@ During my time volunteering for JHU HLTCoE, I gained valuable insights into team
 
 You can learn more at the [JHU HLTCoE website](https://hltcoe.jhu.edu).
 
-<img src="img/projects/E06_HLTCOE_LOA.png" class="rounded mx-auto d-block" alt="...">
+<img src="../img/projects/E06_HLTCOE_LOA.png" class="rounded mx-auto d-block" alt="...">
