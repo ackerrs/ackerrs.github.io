@@ -4,7 +4,7 @@ type: project
 image: img/projects/E06_HLTCOE_Img.png
 title: "JHU HLTCoE TULAROSA"
 date: 2021
-published: false
+published: true
 labels:
   - Language
   - Image Recognition
