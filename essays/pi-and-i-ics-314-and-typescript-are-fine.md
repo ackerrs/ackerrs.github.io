@@ -40,7 +40,7 @@ Johnson, P. (2013).
 Athletic Software Engineering.
 https://philipmjohnson.org/essays/athletic-software-engineering.html
 
-<a id="2">[2]></a>
+<a id="2">[2]</a>
 McKenzie, C. (2018).
 What Java developers need to know about TypeScript syntax.
 https://www.theserverside.com/tutorial/What-Java-developers-need-to-know-about-TypeScript-syntax
