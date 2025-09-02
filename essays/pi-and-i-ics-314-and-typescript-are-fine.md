@@ -19,6 +19,10 @@ Attempting a Bachelor of Science for the second time and being twice the age of 
 Eighteen years and half a planet ago, Embry-Riddle Aeronautical University taught "Introduction to Programming" with C and C++ to an unmotivated and uninformed student. Today, that same student appreciates the structure and logic in programming combined with the utility of object oriented programming. What is not appreciated, is the idea that the interpreter or compiler should be in charge of determining what the programmer meant. As such, Typescript takes what would be one of the least favorite aspects of Javascript programming (dynamic variables) and replaces it with static variable definitions. This provides continuity between C, C++, Java, and now Typescript across decades of learning.
 	
 Beyond the continuity, Typescript *feels* like Java. Some of the syntax varies, but after two semesters of Java in ICS 111 and 211 the use of Typescript allows students to jump into web programming without needing to completely relearn the basics. For a full time student working part time and taking several "intensive" courses simultaneously, familiarity is a boon that cannot be overestimated.
+
+<img src="../img/pi-and-i/E10_essay_image.jpg" class="img-fluid" alt="...">
+
+([McKenzie], 2018](/essays/bibliographies/pi-and-i.bib))
 	
 ## Athletic Software Engineering
 
