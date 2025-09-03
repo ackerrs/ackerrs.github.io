@@ -12,7 +12,7 @@ labels:
   - Professional Behavior
 ---
 
-Author's Note: This paper was written for ENG 100, and the limited word count did not permit for the level of detail these subjects deserve. Additionally, if the subject(s) interest you, I recommend reading about the Paradox of Tolerance.
+*Author's Note: This paper was written for ENG 100, and the limited word count did not permit for the level of detail these subjects deserve. Additionally, if the subject(s) interest you, I recommend reading about the Paradox of Tolerance.*
 
 # Video Games, Representation, and How To Do Better
 
