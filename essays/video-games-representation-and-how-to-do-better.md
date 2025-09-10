@@ -70,7 +70,7 @@ https://dspace.cuni.cz/bitstream/handle/20.500.11956/188515/120469700.pdf?sequen
 Queenie. (2018, December 15).
 *It’s Hard to Love Persona 5 When You’re Queer*.
 The Library.
-Retrieved November 18, 2024, from https://queerqueenlywriting.wordpress.com/2018/12/15/its-hard-to-love-persona-5-when-youre-queer  
+Retrieved November 18, 2024, from [https://queerqueenlywriting.wordpress.com/2018/12/15/its-hard-to-love-persona-5-when-youre-queer](https://queerqueenlywriting.wordpress.com/2018/12/15/its-hard-to-love-persona-5-when-youre-queer)  
 
 <a id="7">[7]</a> 
 Smash JT. (2024, June 12).
