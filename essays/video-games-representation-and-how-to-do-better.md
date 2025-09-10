@@ -14,8 +14,6 @@ labels:
 
 *Author's Note: This paper was written for ENG 100, and the limited word count did not permit for the level of detail these subjects deserve. Additionally, if the subject(s) interest you, I recommend reading about the Paradox of Tolerance.*
 
-# Video Games, Representation, and How To Do Better
-
 LGBTQIA+ representation in video games is increasing, and many either consider this to be a positive change or have little to no opinion at all. However, games such as the *Persona* series (*P\#*) and *Mass Effect: Andromeda* (*ME*) and consultation groups such as Sweet Baby Inc. (SBI) have negative impacts on LGBTQIA+ inclusivity and acceptance in video games due to perpetuating demeaning stereotypes, inaccurate character implementation, and poor public relation controls. These game series and company are particularly egregious violators: Role Playing Games (RPGs) encourage players to associate themselves with the Player Characters (PCs), making interactions personal, while SBI is a company that purports championing minority groups and increasing inclusivity and diversity in the gaming industry.  
 
 # A How-To On Stereotypes
