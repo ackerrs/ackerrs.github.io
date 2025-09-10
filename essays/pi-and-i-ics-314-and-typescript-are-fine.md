@@ -10,7 +10,6 @@ labels:
   - Typescript
   - Learning
 ---
-# Pi and I: ICS 314 and Typescript Are Fine
 
 Attempting a Bachelor of Science for the second time and being twice the age of classmates, a regular schedule and normalized syntax are appreciated. As such, the strict type declarations of Typescript and the persistent staccato of short, fast exercises are delightful in ways unexpected.
 	
