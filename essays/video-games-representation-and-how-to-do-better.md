@@ -40,31 +40,31 @@ The video game industry has much to improve in representing the LGBTQIA+ communi
 Belair, K. & GDC 2025\. (2021, October 20).
 *Now you see Me: Representation as Innovation* \[Video\].
 YouTube.
-Retrieved November 22, 2024, from https://www.youtube.com/watch?v=GfMsxjWgUbI  
+Retrieved November 22, 2024, from [https://www.youtube.com/watch?v=GfMsxjWgUbI](https://www.youtube.com/watch?v=GfMsxjWgUbI)
 
 <a id="2">[2]</a> 
 Farokhmanesh, M. (2024, March 14).
 The small company at the center of ‘Gamergate 2.0.’
 *WIRED*.
-https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/  
+[https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/](https://www.wired.com/story/sweet-baby-video-games-harassment-gamergate/)
 
 <a id="3">[3]</a> 
 Greer, S. (2017, March 28).
 Mass Effect Andromeda is another failure for trans representation.
 *Eurogamer*.
-https://www.eurogamer.net/mass-effect-andromeda-is-another-failure-for-trans-representation  
+[https://www.eurogamer.net/mass-effect-andromeda-is-another-failure-for-trans-representation](https://www.eurogamer.net/mass-effect-andromeda-is-another-failure-for-trans-representation)
 
 <a id="4">[4]</a> 
 Petit, C. (2013, March 1).
 Denial of the Self: Queer Characters in Persona 4\.
 *GameSpot*.
-https://www.gamespot.com/articles/denial-of-the-self-queer-characters-in-persona-4/1100-6404712/  
+[https://www.gamespot.com/articles/denial-of-the-self-queer-characters-in-persona-4/1100-6404712/](https://www.gamespot.com/articles/denial-of-the-self-queer-characters-in-persona-4/1100-6404712/)
 
 <a id="5">[5]</a> 
 Petrova, A. (2024).
 Representation of gay and bisexual women in video games and Players’ attitudes: an Empirical study \[MS Thesis, Charles University\].
 In Department of Software and Computer Science Education & Charles University, *Department of Software and Computer Science Education*.
-https://dspace.cuni.cz/bitstream/handle/20.500.11956/188515/120469700.pdf?sequence=1\&isAllowed=y  
+[https://dspace.cuni.cz/bitstream/handle/20.500.11956/188515/120469700.pdf?sequence=1\&isAllowed=y](https://dspace.cuni.cz/bitstream/handle/20.500.11956/188515/120469700.pdf?sequence=1\&isAllowed=y)
 
 <a id="6">[6]</a> 
 Queenie. (2018, December 15).
@@ -76,34 +76,34 @@ Retrieved November 18, 2024, from [https://queerqueenlywriting.wordpress.com/201
 Smash JT. (2024, June 12).
 Chris Kindred just called my job.
 *Smash JT*.
-Retrieved November 23, 2024, from https://www.smashjt.com/post/chris-kindred-just-called-my-job  
+Retrieved November 23, 2024, from [https://www.smashjt.com/post/chris-kindred-just-called-my-job](https://www.smashjt.com/post/chris-kindred-just-called-my-job) 
 
 <a id="8">[8]</a> 
 Sweet Baby Inc. (2024, October 3).
 *Approach – Sweet Baby Inc*.
 archive.org.
-Retrieved November 22, 2024, from https://web.archive.org/web/20241003114011/https://sweetbabyinc.com/approach/  
+Retrieved November 22, 2024, from [https://web.archive.org/web/20241003114011/https://sweetbabyinc.com/approach/](https://web.archive.org/web/20241003114011/https://sweetbabyinc.com/approach/)
 
 <a id="9">[9]</a> 
 Trent, J. F. (2024a, March 4).
 *Sweet Baby Inc. CEO makes it clear she wants to erase white male lead characters while employee shows disdain for white people*.
 That Park Place.
-Retrieved November 22, 2024, from https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people  
+Retrieved November 22, 2024, from [https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people](https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people)
 
 <a id="10">[10]</a> 
 Trent, J. F. (2024b, April 29).
 *Grummz calls for FBI to investigate Twitch streamer Denims after she raises bounty on his head to $30,000*.
 That Park Place.
-Retrieved November 23, 2024, from https://thatparkplace.com/grummz-calls-for-fbi-to-investigate-twitch-streamer-denims-after-she-raises-bounty-on-his-head-to-30000/  
+Retrieved November 23, 2024, from [https://thatparkplace.com/grummz-calls-for-fbi-to-investigate-twitch-streamer-denims-after-she-raises-bounty-on-his-head-to-30000/](https://thatparkplace.com/grummz-calls-for-fbi-to-investigate-twitch-streamer-denims-after-she-raises-bounty-on-his-head-to-30000/)
 
 <a id="11">[11]</a> 
 Troughton, J. (2024, January 30).
 Persona 3 Reload removes transphobic dialogue.
 *The Gamer*.
-https://www.thegamer.com/persona-3-reload-transphobic-dialogue-conspiracy-theorist/  
+[https://www.thegamer.com/persona-3-reload-transphobic-dialogue-conspiracy-theorist/](https://www.thegamer.com/persona-3-reload-transphobic-dialogue-conspiracy-theorist/)
 
 <a id="12">[12]</a> 
 Vjestica, A. (2024, June 23).
 Sweet Baby Inc. detected: What actually happened and why should you care?
 *The Shortcut*.
-Retrieved November 20, 2024, from https://www.theshortcut.com/p/sweet-baby-inc-detected-what-actually-happened  
+Retrieved November 20, 2024, from [https://www.theshortcut.com/p/sweet-baby-inc-detected-what-actually-happened](https://www.theshortcut.com/p/sweet-baby-inc-detected-what-actually-happened)
