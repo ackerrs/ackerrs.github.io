@@ -12,8 +12,6 @@ labels:
   - RTFM
 ---
 
-# Stupid Is As Stupid Does
-
 "Cunningham's Law states 'the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer'" (Wikimedia, 2025)[[1]](#1). Generally, this is sound advice; it is particularly effective on "casual" sites such as Facebook or Reddit. One should note that there exists an exception to this law, however: technical questions that require specialized or intricate responses will be scorned by this tactic. Instead, for sites like Stack Overflow, answer seekers will be better served following the advice of Eric Raymond's *How to ask questions the smart way*[[3]](#3).
 
 ## Winning Friends and Influencing People
