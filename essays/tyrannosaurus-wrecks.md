@@ -12,6 +12,9 @@ labels:
   - The Ugly
 ---
 
+<img src="../img/E28-cs-error.png" class="img-fluid" alt="...">
+_Screenshot of classwork._
+
 Coding standards are the rules an entity (business, professor, agency, etc.) implement for a variety of reasons. These might be ease of readability, compiler limitations, safety, or personal preference. It may be something of an exaggeration, but the variety in entities, languages, and the reasons espoused result in nearly as many coding standards as there are coders. Worse, many of these standards may be redundant, contradictory, not aligned with industry best practices, or simply unnecessary.
 
 ## "In law, nothing is certain but the expense." -Samuel Butler
