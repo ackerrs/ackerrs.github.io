@@ -13,9 +13,9 @@ labels:
 ---
 
 <p align="center">
-  <img alt="Screenshot of website." src="./img/framework/ls-actual.png" width="45%">
+  <img alt="Screenshot of website." src="../img/framework/ls-actual.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Screenshot of website mockup." src="./img/framework/ls-mockup.png" width="45%">
+  <img alt="Screenshot of website mockup." src="../img/framework/ls-mockup.png" width="45%">
 </p>
 
 _Screenshot of actual website vs Bootstrap 5 mockup made for class._
