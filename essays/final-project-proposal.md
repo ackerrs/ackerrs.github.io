@@ -15,7 +15,7 @@ labels:
 * [Joan Zara](https://jn1za.github.io)
 * [Jayden Francoise](https://jaydenfrn.github.io/)
 * [Raymond Acker](https://ackerrs.github.io)
-* [Jun Xiang Zeng](junoxzeng.github.io)
+* [Jun Xiang Zeng](https://junoxzeng.github.io)
 
 ## Overview
 *The Problem:* Many college students want to build real-world experience and strengthen their resumes through hands-on projects. However, the scope and complexity of meaningful and large-scale projects may exceed their current technical skills or confidence. Such a gap makes it difficult for students to initiate or complete projects that truly showcase their abilities.
