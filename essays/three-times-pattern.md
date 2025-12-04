@@ -12,11 +12,12 @@ labels:
   - Repetition
 ---
 <p align="center">
-  <img alt="Screenshot of code for classwork." src="../img/pattern/code1.png" width="50%">
-  <img alt="Screenshot of code for classwork." src="../img/pattern/code2.png" width="75%">
+  <img alt="Screenshot of code for classwork." src="../img/pattern/Code1.png" width="50%">
+  <img alt="Screenshot of code for classwork." src="../img/pattern/Code2.png" width="75%">
   <br>
-  *Examples of similar code from classwork.*
+  <em>Examples of similar code from classwork.</em>
 </p>
+
 
 Pareidolia: an evolutionary trait virtually all humans share that grants us the super power of seeing things that aren't really there. Seeing faces and shapes in objects that are not faces or (those specific) shapes is a side effect of our brain being hard wired to seek out patterns. More than seeking patterns, humans have built society upon patterns: patterns of speech, patterns of behavior, even patterns of history. It is only sensible, then, that we encourage the use of design patterns in coding.
 
