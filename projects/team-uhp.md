@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/E06_HLTCOE_Img.png
+image: img/projects/team-uhp/team-uhp-sq.png
 title: "Team UHp!"
 date: 2025-12-10
 published: true
