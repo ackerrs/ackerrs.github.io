@@ -4,7 +4,7 @@ type: essay
 title: "Pi and I: ICS 314 and Typescript Are Fine"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-31
-published: true
+published: false
 labels:
   - Athletic Software Engineering
   - Typescript
