@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/projects/E06_HLTCOE_Img.png
 title: "Team UHp!"
-date: 2021
+date: 2025-12-10
 published: true
 labels:
   - NextJS
