@@ -4,7 +4,7 @@ type: essay
 title: "Second Verse, Same as the First"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-09
-published: true
+published: false
 labels:
   - College
   - Software Engineering
