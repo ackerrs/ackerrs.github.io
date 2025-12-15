@@ -15,7 +15,7 @@ labels:
 <p align="center">
   <img alt="Time estimation sheet." src="../img/times/times.png" width="90%">
   <br>
-  <em>Screenshot of AI powered by Gemini.*</em>
+  <em>Screenshot of time estimates and tracking.</em>
 </p>
 
 Tracking manhours for work completed is nothing novel. Predictions of manhours to complete a task is also not uncommon, although striving for the most accurate estimates is a Sisyphean effort. A well understood objective with well understood timelines makes for an accurate plan, and an accurate plan is invaluable for knowing if a project is behind schedule. In a commercial environment these are metrics that can be used to determine team contributions, monitor productivity (and by extension, morale), and save time, money, and customer frustration by enabling better planning and schedule making.
