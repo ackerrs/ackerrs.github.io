@@ -6,7 +6,7 @@
     "email": "ackerrs@hawaii.edu",
     "phone": "",
     "website": "https://ackerrs.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "Studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Expected graduatation in Spring, 2028.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ackerrs", "url": "http://github.com/ackerrs" },
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "React", "NextJS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
