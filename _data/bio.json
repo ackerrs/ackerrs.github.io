@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ackerrs", "url": "http://github.com/ackerrs" },
-      { "network": "linkedin", "username": "raymond-acker-48a083124", "url": "http://linkedin.com/in/raymond-acker-48a083124" },
-      { "network": "instagram", "username": "ackerrs", "url": "http://instagram.com/ackerrs" }
+      { "network": "linkedin", "username": "raymond-acker-48a083124", "url": "http://linkedin.com/in/raymond-acker-48a083124" }
     ]
   },
   "interests": [
